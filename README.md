@@ -20,7 +20,7 @@
 
     # To use the api in this app runs on http://localhost:5000/users using the HTTP methods (GET, POST, PUT and DELETE) you can use POSTMAN or INSOMINIA to test this app as well.
 
-    # Sorry for ny english but, i´m trying to stay out the box in my Brazil, my beloved country.
+    # Sorry for my english but, i´m trying to stay out the box in my Brazil, my beloved country.
 
 
 
