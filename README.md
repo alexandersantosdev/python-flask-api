@@ -1,9 +1,9 @@
-##A simple API using flask
+## A simple API using flask
 
     # Hi, my name is Alexander Roberto dos Santos and i'm a studant / developer.
     # I'm post graduate in web tecnologies and system analist.
 
-    #I love python and python´s frameworks, javascript too.
+    # I love python and python´s frameworks, javascript too.
 
     # How to use this app?
 
