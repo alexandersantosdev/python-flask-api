@@ -1,6 +1,7 @@
 ## A simple API using flask
 
     # Hi, my name is Alexander Roberto dos Santos and i'm a studant / developer.
+    
     # I'm post graduate in web tecnologies and system analist.
 
     # I love python and python´s frameworks, javascript too.
@@ -15,13 +16,11 @@
 
     # I tried to separate the folders in project like used in mvc projects (try)
 
-
     # This app runs on http://localhost:5000
 
     # To use the api in this app runs on http://localhost:5000/users using the HTTP methods (GET, POST, PUT and DELETE) you can use POSTMAN or INSOMINIA to test this app as well.
 
     # Sorry for my english but, i´m trying to stay out the box in my Brazil, my beloved country.
-
 
 
     # Enjoy...
